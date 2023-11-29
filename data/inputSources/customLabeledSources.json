@@ -1,0 +1,1250 @@
+{
+    "0": {
+     "source_name": "abcnews",
+     "source_url": "abcnews.go.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "1": {
+     "source_name": "adweek",
+     "source_url": "www.adweek.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "2": {
+     "source_name": "alternet",
+     "source_url": "www.alternet.org",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "left"
+    },
+    "3": {
+     "source_name": "americablog",
+     "source_url": "AmericaBlog",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "left"
+    },
+    "4": {
+     "source_name": "bearingarms",
+     "source_url": "Bearing Arms",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "5": {
+     "source_name": "bigleaguepolitics",
+     "source_url": "bigleaguepolitics.com",
+     "source_factual_reporting": "QUESTIONABLE",
+     "source_bias_rating": "right"
+    },
+    "6": {
+     "source_name": "bipartisanreport",
+     "source_url": "bipartisanreport.com",
+     "source_factual_reporting": "QUESTIONABLE",
+     "source_bias_rating": "left"
+    },
+    "7": {
+     "source_name": "breitbart",
+     "source_url": "www.breitbart.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "8": {
+     "source_name": "businessinsider",
+     "source_url": "Business Insider",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "9": {
+     "source_name": "buzzfeed",
+     "source_url": "Buzzfeed",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "left"
+    },
+    "10": {
+     "source_name": "campusreform",
+     "source_url": "Campus Reform",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "11": {
+     "source_name": "cbsnews",
+     "source_url": "www.cbsnews.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "12": {
+     "source_name": "charlotteobserver",
+     "source_url": "www.charlotteobserver.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "13": {
+     "source_name": "chicagotribune",
+     "source_url": "www.chicagotribune.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "14": {
+     "source_name": "citizenfreepress",
+     "source_url": "Citizen Free Press",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "15": {
+     "source_name": "clashdaily",
+     "source_url": "Clash Daily",
+     "source_factual_reporting": "QUESTIONABLE",
+     "source_bias_rating": "right"
+    },
+    "16": {
+     "source_name": "cnbc",
+     "source_url": "www.cnbc.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "center"
+    },
+    "17": {
+     "source_name": "cnet",
+     "source_url": "CNET",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "18": {
+     "source_name": "cnn",
+     "source_url": "www.cnn.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "left"
+    },
+    "19": {
+     "source_name": "courthousenewsservice",
+     "source_url": "Courthouse News Service",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "20": {
+     "source_name": "crooksandliars",
+     "source_url": "crooksandliars.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "left"
+    },
+    "21": {
+     "source_name": "dailybeast",
+     "source_url": "www.thedailybeast.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "left"
+    },
+    "22": {
+     "source_name": "dailybuzzlive",
+     "source_url": "Daily Buzz Live",
+     "source_factual_reporting": "QUESTIONABLE",
+     "source_bias_rating": ""
+    },
+    "23": {
+     "source_name": "dailycaller",
+     "source_url": "dailycaller.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "24": {
+     "source_name": "dailyherald",
+     "source_url": "www.dailyherald.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "25": {
+     "source_name": "dailykos",
+     "source_url": "www.dailykos.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "left"
+    },
+    "26": {
+     "source_name": "dailysignal",
+     "source_url": "www.dailysignal.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "27": {
+     "source_name": "dailystormer",
+     "source_url": "dailystormer.su",
+     "source_factual_reporting": "QUESTIONABLE",
+     "source_bias_rating": "right"
+    },
+    "28": {
+     "source_name": "democracynow",
+     "source_url": "www.democracynow.org",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "left"
+    },
+    "29": {
+     "source_name": "denverpost",
+     "source_url": "www.denverpost.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "30": {
+     "source_name": "digg",
+     "source_url": "digg.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "31": {
+     "source_name": "endthefed",
+     "source_url": "endthefed.org",
+     "source_factual_reporting": "QUESTIONABLE",
+     "source_bias_rating": "right"
+    },
+    "32": {
+     "source_name": "fivethirtyeight",
+     "source_url": "FiveThirtyEight",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "33": {
+     "source_name": "forbes",
+     "source_url": "www.forbes.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "center"
+    },
+    "34": {
+     "source_name": "foreignpolicy",
+     "source_url": "foreignpolicy.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "35": {
+     "source_name": "fortunemagazine",
+     "source_url": "Fortune Magazine",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "36": {
+     "source_name": "fusion",
+     "source_url": "fusion.tv",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "37": {
+     "source_name": "hotair",
+     "source_url": "hotair.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "38": {
+     "source_name": "inquisitr",
+     "source_url": "news",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "center"
+    },
+    "39": {
+     "source_name": "internationalbusinesstimes",
+     "source_url": "www.ibtimes.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "center"
+    },
+    "40": {
+     "source_name": "investorsbusinessdaily",
+     "source_url": "www.investors.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "41": {
+     "source_name": "lawenforcementtoday",
+     "source_url": "www.lawenforcementtoday.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "42": {
+     "source_name": "lewrockwell",
+     "source_url": "Lew Rockwell",
+     "source_factual_reporting": "QUESTIONABLE",
+     "source_bias_rating": "right"
+    },
+    "43": {
+     "source_name": "mcclatchydc",
+     "source_url": "McClatchyDC",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "44": {
+     "source_name": "mintpressnews",
+     "source_url": "Mint Press News",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "center"
+    },
+    "45": {
+     "source_name": "motherjones",
+     "source_url": "www.motherjones.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "left"
+    },
+    "46": {
+     "source_name": "msnbc",
+     "source_url": "MSNBC",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "left"
+    },
+    "47": {
+     "source_name": "nationalinterest",
+     "source_url": "nationalinterest.org",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "48": {
+     "source_name": "nationalreview",
+     "source_url": "www.nationalreview.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "49": {
+     "source_name": "newrepublic",
+     "source_url": "New Republic",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "left"
+    },
+    "50": {
+     "source_name": "newsbusters",
+     "source_url": "www.newsbusters.org",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "51": {
+     "source_name": "newspunch",
+     "source_url": "News Punch",
+     "source_factual_reporting": "QUESTIONABLE",
+     "source_bias_rating": "right"
+    },
+    "52": {
+     "source_name": "newswars",
+     "source_url": "NewsWars",
+     "source_factual_reporting": "QUESTIONABLE",
+     "source_bias_rating": "right"
+    },
+    "53": {
+     "source_name": "newyorkdailynews",
+     "source_url": "www.nydailynews.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "54": {
+     "source_name": "newyorker",
+     "source_url": "New Yorker",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "left"
+    },
+    "55": {
+     "source_name": "newyorkpost",
+     "source_url": "nypost.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "center"
+    },
+    "56": {
+     "source_name": "newyorktimes",
+     "source_url": "New York Times",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "57": {
+     "source_name": "noqreport",
+     "source_url": "noqreport.com",
+     "source_factual_reporting": "QUESTIONABLE",
+     "source_bias_rating": "right"
+    },
+    "58": {
+     "source_name": "occupydemocrats",
+     "source_url": "occupydemocrats.com",
+     "source_factual_reporting": "QUESTIONABLE",
+     "source_bias_rating": "left"
+    },
+    "59": {
+     "source_name": "palmerreport",
+     "source_url": "www.palmerreport.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "left"
+    },
+    "60": {
+     "source_name": "personalliberty",
+     "source_url": "personalliberty.com",
+     "source_factual_reporting": "QUESTIONABLE",
+     "source_bias_rating": "right"
+    },
+    "61": {
+     "source_name": "politicalinsider",
+     "source_url": "thepoliticalinsider.com",
+     "source_factual_reporting": "QUESTIONABLE",
+     "source_bias_rating": "right"
+    },
+    "62": {
+     "source_name": "politicalwire",
+     "source_url": "Political Wire",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "63": {
+     "source_name": "politicususa",
+     "source_url": "www.politicususa.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "left"
+    },
+    "64": {
+     "source_name": "powerline",
+     "source_url": "www.powerlineblog.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "65": {
+     "source_name": "rawstory",
+     "source_url": "www.rawstory.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "left"
+    },
+    "66": {
+     "source_name": "realclearpolitics",
+     "source_url": "www.realclearpolitics.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "center"
+    },
+    "67": {
+     "source_name": "redstate",
+     "source_url": "RedState",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "68": {
+     "source_name": "rightwingwatch",
+     "source_url": "www.rightwingwatch.org",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "left"
+    },
+    "69": {
+     "source_name": "rollcall",
+     "source_url": "www.rollcall.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "70": {
+     "source_name": "shareblue",
+     "source_url": "shareblue.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "left"
+    },
+    "71": {
+     "source_name": "slate",
+     "source_url": "slate.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "left"
+    },
+    "72": {
+     "source_name": "summitnews",
+     "source_url": "summit.news",
+     "source_factual_reporting": "QUESTIONABLE",
+     "source_bias_rating": "right"
+    },
+    "73": {
+     "source_name": "talkingpointsmemo",
+     "source_url": "talkingpointsmemo.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "left"
+    },
+    "74": {
+     "source_name": "theamericanconservative",
+     "source_url": "www.theamericanconservative.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "center"
+    },
+    "75": {
+     "source_name": "theatlantic",
+     "source_url": "www.theatlantic.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "76": {
+     "source_name": "theblaze",
+     "source_url": "www.theblaze.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "77": {
+     "source_name": "thebulwark",
+     "source_url": "thebulwark.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "78": {
+     "source_name": "thecollegefix",
+     "source_url": "www.thecollegefix.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "79": {
+     "source_name": "thefiscaltimes",
+     "source_url": "www.thefiscaltimes.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "80": {
+     "source_name": "thegatewaypundit",
+     "source_url": "www.thegatewaypundit.com",
+     "source_factual_reporting": "QUESTIONABLE",
+     "source_bias_rating": "right"
+    },
+    "81": {
+     "source_name": "theintercept",
+     "source_url": "The Intercept",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "left"
+    },
+    "82": {
+     "source_name": "thelibertydaily",
+     "source_url": "thelibertydaily.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "83": {
+     "source_name": "themillenniumreport",
+     "source_url": "The Millennium Report",
+     "source_factual_reporting": "QUESTIONABLE",
+     "source_bias_rating": "right"
+    },
+    "84": {
+     "source_name": "thenation",
+     "source_url": "The Nation",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "left"
+    },
+    "85": {
+     "source_name": "theroot",
+     "source_url": "www.theroot.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "left"
+    },
+    "86": {
+     "source_name": "thetennesseestar",
+     "source_url": "The Tennessee Star",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "87": {
+     "source_name": "theverge",
+     "source_url": "www.theverge.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "88": {
+     "source_name": "thewrap",
+     "source_url": "TheWrap",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "center"
+    },
+    "89": {
+     "source_name": "thinkprogress",
+     "source_url": "thinkprogress.org",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "left"
+    },
+    "90": {
+     "source_name": "truthout",
+     "source_url": "TruthOut",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "left"
+    },
+    "91": {
+     "source_name": "usatoday",
+     "source_url": "www.usatoday.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "92": {
+     "source_name": "vanityfair",
+     "source_url": "www.vanityfair.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "left"
+    },
+    "93": {
+     "source_name": "vdare",
+     "source_url": "vdare.com",
+     "source_factual_reporting": "QUESTIONABLE",
+     "source_bias_rating": "right"
+    },
+    "94": {
+     "source_name": "vox",
+     "source_url": "www.vox.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "left"
+    },
+    "95": {
+     "source_name": "washingtonexaminer",
+     "source_url": "www.washingtonexaminer.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "96": {
+     "source_name": "washingtonmonthly",
+     "source_url": "washingtonmonthly.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "97": {
+     "source_name": "washingtonpost",
+     "source_url": "Washington Post",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "98": {
+     "source_name": "welovetrump",
+     "source_url": "We Love Trump",
+     "source_factual_reporting": "QUESTIONABLE",
+     "source_bias_rating": "right"
+    },
+    "99": {
+     "source_name": "yahoonews",
+     "source_url": "news.yahoo.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "100": {
+     "source_name": "seattletimes",
+     "source_url": "Seattle Times",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "101": {
+     "source_name": "conservativehome",
+     "source_url": "www.conservativehome.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "102": {
+     "source_name": "sanjosemercurynews",
+     "source_url": "www.mercurynews.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "103": {
+     "source_name": "gellerreport",
+     "source_url": "gellerreport.com",
+     "source_factual_reporting": "QUESTIONABLE",
+     "source_bias_rating": "right"
+    },
+    "104": {
+     "source_name": "bongino",
+     "source_url": "bongino.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "105": {
+     "source_name": "chicagosuntimes",
+     "source_url": "chicago.suntimes.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "106": {
+     "source_name": "disrn",
+     "source_url": "disrn.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "107": {
+     "source_name": "foxnews",
+     "source_url": "www.foxnews.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "108": {
+     "source_name": "huffingtonpost",
+     "source_url": "www.huffpost.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "left"
+    },
+    "109": {
+     "source_name": "newsmax",
+     "source_url": "newsmax.com",
+     "source_factual_reporting": "LOW",
+     "source_bias_rating": "right"
+    },
+    "110": {
+     "source_name": "newsweek",
+     "source_url": "newsweek.com",
+     "source_factual_reporting": "",
+     "source_bias_rating": "center"
+    },
+    "111": {
+     "source_name": "npr",
+     "source_url": "npr.org",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "112": {
+     "source_name": "oann",
+     "source_url": "oann.com",
+     "source_factual_reporting": "",
+     "source_bias_rating": "right"
+    },
+    "113": {
+     "source_name": "pbs",
+     "source_url": "pbs.org/newshour",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "114": {
+     "source_name": "politico",
+     "source_url": "politico.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "115": {
+     "source_name": "radiofreeeuroperadioliberty",
+     "source_url": "rferl.org",
+     "source_factual_reporting": "MOSTLY FACTUAL",
+     "source_bias_rating": "center"
+    },
+    "116": {
+     "source_name": "thebl",
+     "source_url": "thebl.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "117": {
+     "source_name": "theconservativetreehouse",
+     "source_url": "theconservativetreehouse.com",
+     "source_factual_reporting": "LOW",
+     "source_bias_rating": "right"
+    },
+    "118": {
+     "source_name": "thedcclothesline",
+     "source_url": "dcclothesline.com",
+     "source_factual_reporting": "LOW",
+     "source_bias_rating": "right"
+    },
+    "119": {
+     "source_name": "theepochtimes",
+     "source_url": "theepochtimes.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "120": {
+     "source_name": "thehill",
+     "source_url": "thehill.com",
+     "source_factual_reporting": "MOSTLY FACTUAL",
+     "source_bias_rating": "center"
+    },
+    "121": {
+     "source_name": "upi",
+     "source_url": "upi.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "122": {
+     "source_name": "washingtontimes",
+     "source_url": "washingtontimes.com",
+     "source_factual_reporting": "MIXED",
+     "source_bias_rating": "right"
+    },
+    "123": {
+     "source_name": "westernjournal",
+     "source_url": "westernjournal.com",
+     "source_factual_reporting": "VERY LOW",
+     "source_bias_rating": "right"
+    },
+    "124": {
+     "source_name": "worldnetdailywnd",
+     "source_url": "wnd.com",
+     "source_factual_reporting": "LOW",
+     "source_bias_rating": "right"
+    },
+    "125": {
+     "source_name": "usnews",
+     "source_url": "usnews.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "center"
+    },
+    "126": {
+     "source_name": "djhjmedia",
+     "source_url": "djhjmedia.com",
+     "source_factual_reporting": "LOW",
+     "source_bias_rating": "right"
+    },
+    "127": {
+     "source_name": "therealnews",
+     "source_url": "therealnews.com",
+     "source_factual_reporting": "HIGH",
+     "source_bias_rating": "left"
+    },
+    "128": {
+     "source_name": "trendingpolitics",
+     "source_url": "trendingpolitics.com",
+     "source_factual_reporting": "LOW",
+     "source_bias_rating": "right"
+    },
+    "129": {
+     "source_name": "21stcenturywire",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "130": {
+     "source_name": "911truthorg",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "131": {
+     "source_name": "acnlatitudes",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "132": {
+     "source_name": "ageofautism",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "133": {
+     "source_name": "alliancefornaturalhealth",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "134": {
+     "source_name": "althealthworks",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "135": {
+     "source_name": "autisminvestigated",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "136": {
+     "source_name": "climatechangedispatch",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "137": {
+     "source_name": "climatedepot",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "138": {
+     "source_name": "collectiveevolution",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "139": {
+     "source_name": "committeeconstructivetomorrowcfactorg",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "140": {
+     "source_name": "consciouslifenews",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "141": {
+     "source_name": "covertgeopolitics",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "142": {
+     "source_name": "discoveryinstitute",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "143": {
+     "source_name": "disobedientmedia",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "144": {
+     "source_name": "doctorozcom",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "145": {
+     "source_name": "foodbabe",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "146": {
+     "source_name": "freethoughtproject",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "147": {
+     "source_name": "geoengineeringwatch",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "148": {
+     "source_name": "greenmedinfo",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "149": {
+     "source_name": "gulagbound",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "150": {
+     "source_name": "haarpnet",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "151": {
+     "source_name": "healthimpactnews",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "152": {
+     "source_name": "healthnutnews",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "153": {
+     "source_name": "healthsciencesinstitute",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "154": {
+     "source_name": "healthyholisticliving",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "155": {
+     "source_name": "humansarefree",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "156": {
+     "source_name": "iceagenow",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "157": {
+     "source_name": "ihealthtube",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "158": {
+     "source_name": "illuminatiwatcher",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "159": {
+     "source_name": "independentsciencenews",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "160": {
+     "source_name": "infowars",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "161": {
+     "source_name": "intellihub",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "162": {
+     "source_name": "investmentwatchblog",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "163": {
+     "source_name": "iowaclimatescienceeducation",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "164": {
+     "source_name": "jesusdaily",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "165": {
+     "source_name": "junksciencecom",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "166": {
+     "source_name": "learntheriskorg",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "167": {
+     "source_name": "lifespa",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "168": {
+     "source_name": "liveaction",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "169": {
+     "source_name": "mediaroots",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "170": {
+     "source_name": "nationalfile",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "171": {
+     "source_name": "naturalawakeningsmagazine",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "172": {
+     "source_name": "naturallysavvy",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "173": {
+     "source_name": "naturalnews",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "174": {
+     "source_name": "needtoknow",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "175": {
+     "source_name": "newsbud",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "176": {
+     "source_name": "nowtheendbegins",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "177": {
+     "source_name": "nutritionfactsorg",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "178": {
+     "source_name": "occupyyourself",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "179": {
+     "source_name": "prisonplanet",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "180": {
+     "source_name": "rapturenewsnetwork",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "181": {
+     "source_name": "realclimatescience",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "182": {
+     "source_name": "returntonow",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "183": {
+     "source_name": "revolutionradio",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "184": {
+     "source_name": "sciencevibe",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "185": {
+     "source_name": "shoebat",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "186": {
+     "source_name": "skeptiko",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "187": {
+     "source_name": "stillnessinthestorm",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "188": {
+     "source_name": "sustainablepulse",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "189": {
+     "source_name": "theantimedia",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "190": {
+     "source_name": "thegreanvillepostbiasrating",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "191": {
+     "source_name": "thelibertybeacon",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "192": {
+     "source_name": "themindunleashed",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "193": {
+     "source_name": "thestream",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "194": {
+     "source_name": "thetruthaboutcancer",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "195": {
+     "source_name": "thevaccinereaction",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "196": {
+     "source_name": "thoughtcatalog",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "197": {
+     "source_name": "truepundit",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "198": {
+     "source_name": "trunews",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "199": {
+     "source_name": "usawatchdogcom",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "200": {
+     "source_name": "veteranstoday",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "201": {
+     "source_name": "vigilantcitizen",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "202": {
+     "source_name": "wakingtimes",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "203": {
+     "source_name": "wattsupwiththat",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "204": {
+     "source_name": "wearechange",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "205": {
+     "source_name": "worldtruthtv",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "206": {
+     "source_name": "x22report",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    },
+    "207": {
+     "source_name": "vaccinesrevealed",
+     "source_url": "",
+     "source_factual_reporting": "",
+     "source_bias_rating": "conspiracy_pseudoscience"
+    }
+   }
