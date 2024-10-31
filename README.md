@@ -13,6 +13,8 @@ THIS SOFTWARE IS PROVIDED "AS-IS". THERE IS NO WARRANTY OF ANY KIND. NEITHER THE
 This software was developed (and is copyrighted by) the NLP research group at Purdue University. Please do not redistribute this software. This program is for academic research use only.
 
 # Cite
+This paper is accepted in _Findings of EMNLP 2023_.
+```
 @inproceedings{nakshatri-etal-2023-using,
     title = "Using {LLM} for Improving Key Event Discovery: Temporal-Guided News Stream Clustering with Event Summaries",
     author = "Nakshatri, Nishanth  and
@@ -33,3 +35,4 @@ This software was developed (and is copyrighted by) the NLP research group at Pu
     doi = "10.18653/v1/2023.findings-emnlp.274",
     pages = "4162--4173",
 }
+```
