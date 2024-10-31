@@ -11,3 +11,25 @@ For any urgent requests, please contact nnakshat(AT)purdue.edu
 THIS SOFTWARE IS PROVIDED "AS-IS". THERE IS NO WARRANTY OF ANY KIND. NEITHER THE AUTHORS NOR PURDUE UNIVERSITY WILL BE LIABLE FOR ANY DAMAGES OF ANY KIND, EVEN IF ADVISED OF SUCH POSSIBILITY.
 
 This software was developed (and is copyrighted by) the NLP research group at Purdue University. Please do not redistribute this software. This program is for academic research use only.
+
+# Cite
+@inproceedings{nakshatri-etal-2023-using,
+    title = "Using {LLM} for Improving Key Event Discovery: Temporal-Guided News Stream Clustering with Event Summaries",
+    author = "Nakshatri, Nishanth  and
+      Liu, Siyi  and
+      Chen, Sihao  and
+      Roth, Dan  and
+      Goldwasser, Dan  and
+      Hopkins, Daniel",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-emnlp.274",
+    doi = "10.18653/v1/2023.findings-emnlp.274",
+    pages = "4162--4173",
+}
